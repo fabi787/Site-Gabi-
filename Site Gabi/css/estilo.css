@@ -1,0 +1,150 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Alex+Brush&family=Cookie&family=Courgette&family=Lobster+Two&family=Roboto+Condensed:wght@300&family=Yellowtail&display=swap');
+
+
+
+body{
+background-color:rgba(184, 135, 11, 0.548);
+
+    object-fit:cover;
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+    width: 1350px;
+}
+.header{
+    width: 1350px;
+    height:200px;
+    box-shadow: 2px 2px 4px black;
+    border-radius: 10px;
+    background-color: #fff;
+    
+    
+}
+
+.logo{
+    font-size: 70px;
+    color: darkgoldenrod;
+    font-weight: 500;
+    text-decoration: none;
+    font-family: 'Alex Brush', cursive;
+}
+.default{ color: darkgoldenrod;
+    font-size: 40px;
+    text-decoration: none;
+    margin:10%;
+    font-family: 'Yellowtail', cursive;
+   
+
+}
+.sub1{
+    color: darkgoldenrod;
+    font-size: 40px;
+    text-decoration: none;
+    font-family: 'Yellowtail', cursive;
+
+}
+.sub2{
+    color: darkgoldenrod;
+    font-size: 30px;
+    text-decoration: none;
+    margin: 10%;
+}
+.titulo{
+    color: darkgoldenrod;
+    font-size: 30px;
+    text-align:justify;
+    font-family: 'Alex Brush', cursive;
+  
+  
+}
+
+
+
+p{
+vertical-align: middle;
+float: right;
+text-align:left;
+    font-size: 30px;
+    color:black;
+  width: 300px;
+    height: 300px;
+    margin-right: 15%;
+border: 1px solid #fff;
+    
+}
+
+#foto1{
+    
+border-radius: 10px;
+box-shadow: 4px 4px 8px black;
+margin-left: 10%;
+
+}
+.titulo1{
+    color: darkgoldenrod;
+    font-size: 20px;
+font-family: 'Cookie', cursive;
+
+
+   
+}
+.footer{
+    background-color: rgba(255, 255, 255, 0.76);
+    height: 410px;
+    border-radius: 5px;
+    font-family: 'Yellowtail', cursive;
+    line-height:24px;
+
+}
+
+form{
+    width: 30%;
+    margin: 0 auto;
+    float: left;
+    color: darkgoldenrod;
+    font-size: 25px;
+    margin-left: 10px;
+}
+input, textarea{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 1em;
+    border-radius: 10px;
+    background-color:rgba(255, 255, 255, 0.596);
+    border: 1px solid rgb(29, 27, 27);
+    margin-left: 10px;
+}
+button{
+    background-color: darkgoldenrod;
+    border: 1px solid #fff;
+    color:#fff;
+    padding: 10px;
+    border-radius: 5px;
+    cursor:grab;
+    margin-left: 10px;
+    font-size: 20px;
+    font-family: 'Cookie', cursive;
+
+}
+
+.endereço{
+    color:darkgoldenrod;
+    text-align:center;
+    left: 17%;
+    font-size: 20px;
+    font-family: 'Cookie', cursive;
+
+    
+    }
+   
+    
+    dl{
+        text-align: start;
+        color: darkgoldenrod;
+        font-size:25px;
+        float: right;
+        font-family: 'Cookie', cursive;
+        margin-right: 20px;
+    }

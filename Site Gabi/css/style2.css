@@ -1,0 +1,127 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Alex+Brush&family=Cookie&family=Courgette&family=Lobster+Two&family=Roboto+Condensed:wght@300&family=Yellowtail&display=swap');
+
+body{
+    background-color: rgba(184, 135, 11, 0.562);
+    background-repeat: none;
+    background-size: cover;
+    object-fit:cover;
+    padding:0;
+    margin:0;
+    
+    box-sizing:border-box;
+
+}
+.header{
+    width: 1350px;
+    height:200px;
+    box-shadow: 2px 2px 4px black;
+    border-radius: 10px;  
+    background-color: #fff;
+}
+
+
+
+.logo{
+    font-size: 70px;
+    color: darkgoldenrod;
+    font-family: 'Alex Brush', cursive;
+    text-decoration: none;
+}
+
+
+
+.default{ color: darkgoldenrod;
+    font-size: 40px;
+    text-decoration: none;
+    margin: 10%;
+    font-family: 'Yellowtail', cursive;
+
+}
+.sub1{
+    color: darkgoldenrod;
+    font-size: 40px;
+    text-decoration: none;
+    font-family: 'Yellowtail', cursive;
+}
+.sub2{
+    
+    color: darkgoldenrod;
+    font-size: 30px;
+    text-decoration: none;
+    margin: 10%;
+}
+#banner{
+    width: 1200px;
+    margin-top: 2%;
+    position: relative;
+    left: 5%;
+    border-radius: 15px;
+    box-shadow: 3px 3px 6px #333;
+}
+.footer{
+    background-color: rgba(255, 255, 255, 0.651);
+    height: 410px;
+    border-radius: 10px;
+    line-height:24px;
+}
+
+
+.titulo1{
+    color: darkgoldenrod;
+    font-size: 20px;
+font-family: 'Cookie', cursive;   
+
+}
+
+form{
+    width: 30%;
+    margin: 0 auto;
+    float: left;
+    color: darkgoldenrod;
+    font-size: 25px;
+    margin-left: 10px;
+}
+input, textarea{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 1em;
+    border-radius: 10px;
+    background-color:rgba(255, 255, 255, 0.596);
+    border: 1px solid rgb(20, 20, 20);
+    margin-left: 10px;
+}
+button{
+    background-color: darkgoldenrod;
+    border: 1px solid #fff;
+    color:#fff;
+    padding: 10px;
+    border-radius: 5px;
+    cursor:grab;
+    margin-left: 10px;
+    font-size: 20px;
+    font-family: 'Cookie', cursive;
+
+}
+
+
+
+
+.endereço{
+color:darkgoldenrod;
+text-align:center;
+left: 17%;
+font-size: 20px;
+font-family: 'Cookie', cursive;
+
+
+}
+
+dl{
+    color: darkgoldenrod;
+    font-size: 25px;
+    float: right;
+    font-family: 'Cookie', cursive;
+    margin-right: 20px;
+    
+}

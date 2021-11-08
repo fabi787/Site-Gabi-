@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css2?family=Alex+Brush&family=Cookie&family=Courgette&family=Lobster+Two&family=Roboto+Condensed:wght@300&family=Yellowtail&display=swap');
+body{
+background-color:rgba(184, 135, 11, 0.562);
+    object-fit: cover;
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+}
+.header{
+    width: 1350px;
+    height:200px;
+    box-shadow: 2px 2px 4px black;
+    border-radius: 10px;
+    background-color: #fff;
+    
+}
+
+.logo{
+    font-size: 70px;
+    color: darkgoldenrod;
+    text-align: end;
+    text-decoration: none;
+    font-family: 'Alex Brush', cursive;
+}
+
+
+
+
+.default{ color: darkgoldenrod;
+    font-size: 40px;
+    text-decoration: none;
+    margin: 10%;
+    font-family: 'Yellowtail', cursive
+
+}
+.sub1{
+    color: darkgoldenrod;
+    font-size: 40px;
+    text-decoration: none;
+    font-family: 'Yellowtail', cursive
+
+}
+.sub2{
+    color: darkgoldenrod;
+    font-size: 40px;
+    text-decoration: none;
+    margin: 10%;
+
+}
+.carrossel{
+    padding: 5px;
+    margin: 20px;
+    box-shadow: 2px 2px 4px #fff;
+    overflow: hidden;
+    width: 1280px;
+    height: 100%;
+    border-radius: 20px;
+   
+}
+.container{
+    display: flex;
+    transition: transform 0.6s ease-in-out;
+    transform: translateX(0);
+
+}
+.img{
+    object-fit: cover;
+    height: 100%;
+    width: 1280;
+    
+   
+}
+#banner{
+    width: 1000px;
+    margin-top: 2%;
+    position: relative;
+    left: 12%;
+    border-radius: 15px;
+    box-shadow: 3px 3px 6px #333;
+}
+
+
+
+.titulo1{
+    color: darkgoldenrod;
+    font-size: 20px;
+font-family: 'Cookie', cursive;
+    
+    
+ 
+   
+}
+.footer{
+background-color: rgba(255, 255, 255, 0.822);
+border-radius: 15px;
+height: 410px;
+line-height:24px;
+}
+
+form{
+    width: 30%;
+    margin: 0 auto;
+    float: left;
+    color: darkgoldenrod;
+    font-size: 25px;
+    margin-left: 10px;
+
+   
+    
+}
+input, textarea{
+    width: 100%;
+   padding: 10px;
+    margin-bottom: 1em;
+    border-radius: 10px;
+    background-color:rgba(255, 255, 255, 0.596);
+    border: 1px solid rgb(26, 23, 23);
+    margin-left: 10px;
+   
+    
+    
+}
+button{
+    background-color: darkgoldenrod;
+    border: 1px solid #fff;
+    color:#fff;
+    padding: 10px;
+    border-radius: 5px;
+    cursor:grab;
+    margin-left: 10px;
+    font-size: 20px;
+    font-family: 'Cookie', cursive;}
+
+
+.endereço{
+color:darkgoldenrod;
+text-align:center;
+left: 17%;
+font-size: 20px;
+font-family: 'Cookie', cursive;}
+
+    
+      
+    dl{
+        color: darkgoldenrod;
+        font-size:25px;
+        float: right;
+        font-family: 'Cookie', cursive;
+        margin-right: 20px;}
+        
